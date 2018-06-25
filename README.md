@@ -1,6 +1,10 @@
 # SAI
 sonic编译所需要的三个包
 
+
+sonic还差什么加什么。docker-engine
+
+
 echo "# SAI" >> README.md
 git init
 git add README.md
