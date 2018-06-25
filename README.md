@@ -1,4 +1,6 @@
 # SAI
+下载路径：
+https://raw.githubusercontent.com/liron-ze/SAI/master/
 sonic编译所需要的三个包
 
 
